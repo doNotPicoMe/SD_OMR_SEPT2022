@@ -1,0 +1,28 @@
+//PREPROCESSING
+1. Read Image (Pass) // NEEDS MORE TESTING TO CONFIRM
+
+//LOGIC
+1. Find all contours (Pass)
+2. Find rectangles (Pass)
+3. Located bubble and bubble zone
+    3.1. Birds eye view: Bubble Zone (Pass)
+    3.2. Birds eye view: Grade Zone (Pass)
+    3.3. Apply threshold (Pass)
+    3.4. Find individual bubbles (Pass)
+    3.5. Find mark bubbles (Pass) // YET TO CONSIDER MORE THAN 1 BUBBLE
+    3.6. Getting Non-Zero Pixel values of each bubbles (Pass)
+    3.7. Loop through all bubbles (Pass)
+    3.8. Finding index values of the marking (Pass)
+    3.9. Grading (Pass) // NEEDS MORE TESTING TO CONFIRM
+4. Display answers (FAIL) //UNABLE TO DETECT THE ADJACENT BUBBLE COLUMN IMAGE
+5. Display shaded answers (FAIL) //UNABLE TO DETECT THE ADJACENT BUBBLE COLUMN IMAGE
+6. Display answers (based on original image) (FAIL) //UNABLE TO DETECT THE RIGHT BUBBLE COLUMN IMAGE
+7. Display grades  (based on original image) (TBA)
+8. Display an array of image
+    8.1. Define image array (TBA)  //MIGHT NOT DETECT THE RIGHT BUBBLE COLUMN IMAGE
+    8.2. Define label array (TBA)  //REQUIRES AN UPDATE
+    8.3. Print (Image Array+Label Array) (TBA) //MIGHT NOT DETECT THE RIGHT BUBBLE COLUMN IMAGE
+9. Display final image (TBA) //NOT YET MERGE ALL IMAGE TOGETHER
+
+
+

@@ -1,0 +1,13 @@
+The program should be able to do the following:
+
+Identify:
+1. The answer zone and grading zone
+2. The contours of the answer zone
+3. Is there more than 1 shaded region? If yes, what should the program do?
+
+Able:
+1. Read more than 1 .png file
+2. Reject wrong file format. (Discuss on back-end or front-end placement)
+
+sasaa
+
